@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "vitalik test mern",
+  "mongoUri": "mongodb+srv://Vitalik:9142@cluster0-awc6u.azure.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
